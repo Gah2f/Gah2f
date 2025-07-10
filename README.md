@@ -16,15 +16,25 @@ I’m eager to collaborate on:
 
 ### 📫 How to Reach Me  
 Connect with me? :  
-- *🚀 Beam me a message: [danielnebiyuneb@gmail.com]  
+- 🚀 Beam me a message: [danielnebiyuneb@gmail.com]  
 - 💼 Let's net-work! : [www.linkedin.com/in/nebiyu-d-nebiyeleul-a85302224]  
-- *🐦 Tweet me your thoughts: [https://x.com/NebiyuD07161952?t=sRptwXFf9LlcBeSMeRcA4g&s=09]  
+- 🐦 Tweet me your thoughts: [https://x.com/NebiyuD07161952?t=sRptwXFf9LlcBeSMeRcA4g&s=09]  
 
 ### 😄 Pronouns  
 He/Him  
 
+---
+
+## 📈 My GitHub Stats
+
+![Nebiyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gah2f&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gah2f&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gah2f&theme=radical&border_radius=5)](https://git.io/streak-stats)
 
 ---
+
 Let's collaborate, share ideas, and build something amazing together! 🚀  
 
 
