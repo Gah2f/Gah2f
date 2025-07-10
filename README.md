@@ -27,11 +27,11 @@ He/Him
 
 ## 📈 My GitHub Stats
 
-![Nebiyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gah2f&show_icons=true&theme=radical)
+![Nebiyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gah2f&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gah2f&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gah2f&layout=compact&theme=default)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gah2f&theme=radical&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gah2f&theme=default&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
