@@ -1,18 +1,17 @@
 # 👋 Hello there! I'm Nebiyu D. Nebiyeleul (@Gah2f)  
 
 ### 👀 About Me  
-I'm deeply passionate about **Physics** and **Computing**, constantly exploring the intersection of these fields to solve real-world problems and fuel my curiosity.  
+I’m passionate about coding and software development, with a strong interest in building clean, scalable, and maintainable applications. I enjoy turning ideas into working products and continuously improving how systems are designed, structured, and delivered.
 
 ### 🌱 What I'm Currently Learning  
-- Research in **Physics**  
-- Full stack website development  
-- The art of **Open Source Contribution**  
+- Full-stack web development, with a focus on modern frontend and backend frameworks
+- Best practices in open-source development, including collaboration, code reviews, and documentation 
 
 ### 💞️ Collaboration Interests  
-I’m eager to collaborate on:  
-- **Scientific computing projects**  
-- Innovative **AI applications in Physics**  
-- Building **open-source tools** for researchers  
+I’m excited to collaborate on:
+ - Full-stack web applications
+ - Developer-focused tools and platforms
+ - Open-source projects that emphasize clean code, performance, and usability
 
 ### 📫 How to Reach Me  
 Connect with me? :  
