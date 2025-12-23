@@ -16,7 +16,11 @@ I’m excited to collaborate on:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,git,github,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,nestjs,express,socketio,mongodb,mysql,postgres,prisma,git,github,python,java" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=stripe,sanity" />
 </p>
 
 
