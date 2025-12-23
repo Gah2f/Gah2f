@@ -16,7 +16,7 @@ I’m excited to collaborate on:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,git,github,python,java,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,git,github,python,java,tailwind,html,css,bootstrap" />
 </p>
 
 ### 📫 How to Reach Me  
