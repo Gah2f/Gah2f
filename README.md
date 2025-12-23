@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Nebiyu D. Nebiyeleul (@Gah2f)  
 
 ### 👀 About Me  
-I’m passionate about coding and software development, with a strong interest in building clean, scalable, and maintainable applications. I enjoy turning ideas into working products and continuously improving how systems are designed, structured, and delivered.
+I’m passionate about coding and software development, with a strong interest in building clean, scalable, and maintainable applications. I enjoy turning ideas into working products and continuously improving how systems are designed, structured, and delivered. 
 
 ### 🌱 What I'm Currently Learning  
 - Full-stack web development, with a focus on modern frontend and backend frameworks
@@ -12,6 +12,13 @@ I’m excited to collaborate on:
  - Full-stack web applications
  - Developer-focused tools and platforms
  - Open-source projects that emphasize clean code, performance, and usability
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,git,github,python,java" />
+</p>
+
 
 ### 📫 How to Reach Me  
 Connect with me? :  
